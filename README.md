@@ -9,12 +9,10 @@
     currently_learning = "Full stack Web Development"
     fun_fact = "Roses are red, voilets are blue."
 	hobbies = [
-	  'Listening Music',
-    'Chilling',
+	  'Playing Cricket',
+ 	  'Chilling',
 	  'Gaming',
-	  'Sci-Fi Movies',
-          'Thriller and Slasher Movies',
-          'History Documentaries and BioGraphy'
+	  
 	          ]
 	
 	def NameCity():
@@ -48,9 +46,9 @@
 <div align="center">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suryansharma18&label=Profile%20views&color=0e75b6&style=flat" alt="Vatsal-Verma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suryansharma18&label=Profile%20views&color=0e75b6&style=flat" alt="Suryansharma18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suryansharma18" alt="1shubham7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suryansharma18" alt="Suryansharma18" /></a> </p>
 
 
 
@@ -67,11 +65,10 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vatsal-verma-b27925291/"><img alt="Linkedin" title="Vijit Verma Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Vatsal-Verma/Vatsal-Verma"><img alt="Github" title="Vatsal Verma Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.youtube.com/@superpsychedelics436"><img alt="Youtube" title="Vatsal Verma youtube" src="https://img.shields.io/badge/-Youtube-E34F26?style=for-the-badge&logoColor=white"></a>
-<a href="https://x.com/vatsal_verma_"><img alt="Twitter" title="Vatsal Verma Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://discord.gg/S899Q4eN4V"><img alt="Discord" title="Vatsal Verma Discord" src="https://img.shields.io/badge/Discord-%238511FA.svg?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/suryansh-sharma-586813288/"><img alt="Linkedin" title="Suryansh Sharma Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Suryansharma18"><img alt="Github" title="Suryansh Sharma Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://x.com/Gigipisho"><img alt="Twitter" title="Suryansh Sharma Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://discord.gg/suryanshsharma3924"><img alt="Discord" title="Suryansh Sharma Discord" src="https://img.shields.io/badge/Discord-%238511FA.svg?style=for-the-badge&logoColor=white"></a>
 </p>
 
 

@@ -15,10 +15,10 @@
 	  
 	          ]
 	
-	def NameCity():
+	public void NameCity():
 		return Ghaziabad_City()
 	
-	def Ambitions():
+	public void Ambitions():
 		BecomeSoftwareEngineer()
 		FinishMyProjects()
 

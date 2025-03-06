@@ -2,46 +2,24 @@
 
 ## Who am I?
 
- ```python public class WhoAmI {
-
-    String userName = "Suryansh Sharma";
-    String currentEducation = "Pursuing B.Tech";
-    String currentlyLearning = "Full stack Web Development";
-    String funFact = "Roses are red, violets are blue.";
-
-    String[] hobbies = {
-        "Playing Cricket",
-        "Chilling",
-        "Gaming"
-    };
-
-    public String nameCity() {
-        return "Ghaziabad City";
-    }
-
-    public void ambitions() {
-        System.out.println("Become Software Engineer");
-        System.out.println("Finish My Projects");
-    }
-
-    public static void main(String[] args) {
-        WhoAmI me = new WhoAmI();
-        System.out.println("Name: " + me.userName);
-        System.out.println("Education: " + me.currentEducation);
-        System.out.println("Currently Learning: " + me.currentlyLearning);
-        System.out.println("Fun Fact: " + me.funFact);
-
-        System.out.println("Hobbies:");
-        for (String hobby : me.hobbies) {
-            System.out.println("- " + hobby);
-        }
-
-        System.out.println("City: " + me.nameCity());
-        me.ambitions();
-    }
-}
-
-
+ ```python 
+  class WhoAmI:
+    user_name = 'Suryansh Sharma'
+	current_education = "Persuing B.Tech"
+    currently_learning = "Full stack Web Development"
+    fun_fact = "Roses are red, voilets are blue."
+	hobbies = [
+	  'Playing Cricket',
+ 	  'Chilling',
+	  'Gaming',
+	  ]
+	
+	public void NameCity():
+		return Ghaziabad_City()
+	
+	public void Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
 
 
  ```

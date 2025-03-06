@@ -2,7 +2,7 @@
 
 ## Who am I?
 
- ``` public class WhoAmI {
+ ```python public class WhoAmI {
 
     String userName = "Suryansh Sharma";
     String currentEducation = "Pursuing B.Tech";

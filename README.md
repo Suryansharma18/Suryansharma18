@@ -12,8 +12,7 @@
 	  'Playing Cricket',
  	  'Chilling',
 	  'Gaming',
-	  
-	          ]
+	  ]
 	
 	public void NameCity():
 		return Ghaziabad_City()

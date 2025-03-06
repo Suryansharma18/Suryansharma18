@@ -2,7 +2,7 @@
 
 ## Who am I?
 
- ```python 
+  ```python 
   class WhoAmI:
     user_name = 'Suryansh Sharma'
 	current_education = "Persuing B.Tech"
@@ -23,7 +23,6 @@
 
 
  ```
-
 [![An image of @vatsalverma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalverma)](https://holopin.io/@Suryansharma18)
 <center>
   
